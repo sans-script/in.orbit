@@ -29,7 +29,7 @@ The application allows users to:
 
 ## API Endpoints
 
-Visit the `requests.http` file in the root of the project to test the API using the **REST Client** extension for VSCode, **Postman**, or other API testing tools.
+Visit the `requests.http` file inside the server folder to test the API using the **REST Client** extension for VSCode, **Postman**, or other API testing tools.
 
 ### Goals
 
