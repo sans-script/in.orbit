@@ -1,6 +1,6 @@
 # in.orbit
 
-**in.orbit** is a full-stack goal scheduling application developed during the Rocketseat event, **NLW Pocket: JavaScript - Full-stack Intermediate**.
+**in.orbit** is a full-stack goal scheduling application developed during the Rocketseat event, **NLW Pocket: JavaScript - Full-Stack Intermediate**.
 
 ## Features
 
