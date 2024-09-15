@@ -1,0 +1,29 @@
+# Goals
+
+POST http://localhost:3333/goals HTTP/1.1
+content-type: application/json
+
+{
+    "title": "Fazer nada",
+    "desiredWeeklyFrequency": 7
+}
+
+# Get week pending goals
+
+###
+GET http://localhost:3333/pending-goals
+
+# Create goal completion
+
+###
+POST http://localhost:3333/completions HTTP/1.1
+content-type: application/json
+
+{
+    "goalId": "afoutnar7lrb6qkz4qv11inc"
+}
+
+# Get week summary
+
+###
+GET http://localhost:3333/summary
